@@ -132,3 +132,4 @@ else
 	clear 
 	banner
 fi
+waed
